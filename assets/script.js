@@ -1,6 +1,6 @@
 // Preload images
 const imageSources = [
-    'Ziyad.png',
+    'ziyad.jpg',
     'ml.png',
     'nfs.jpeg',
     'codm.png',

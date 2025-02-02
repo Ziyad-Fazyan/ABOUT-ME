@@ -13,11 +13,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize Typed.js
     const typed = new Typed('.typed', {
         strings: [
-            'Game Hacker',
-            'Software Developer',
-            'Cheat Creator',
-            'Reverse Engineer',
-            'Book Reader'
+            'ziyad.jpg',
+            'ml.png',
+            'nfs.jpeg',
+            'codm.png',
+            'bf5.jpg'
         ],
         typeSpeed: 50,
         backSpeed: 30,
