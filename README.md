@@ -1,9 +1,9 @@
-# 🌟 BIDZZ OFFICIAL - Personal Portfolio Website
+# 🌟 Ziyad OFFICIAL - Personal Portfolio Website
 
 <div align="center">
-  <img src="Bidzz.png" alt="BIDZZ Profile" width="200" style="border-radius: 50%"/>
+  <img src="Ziyad.png" alt="Ziyad Profile" width="200" style="border-radius: 50%"/>
   
-  [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fbidzz-rawr.github.io%2FABOUT-ME&style=for-the-badge)](https://bidzz-rawr.github.io/ABOUT-ME)
+  [![Website Status](https://img.shields.io/website?url=https%3A%2F%2FZiyad-rawr.github.io%2FABOUT-ME&style=for-the-badge)](https://Ziyad-rawr.github.io/ABOUT-ME)
   [![GitHub stars](https://img.shields.io/github/stars/Muhammadabid7/ABOUT-ME?style=for-the-badge)](https://github.com/Muhammadabid7/ABOUT-ME/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/Muhammadabid7/ABOUT-ME?style=for-the-badge)](https://github.com/Muhammadabid7/ABOUT-ME/network)
   [![GitHub issues](https://img.shields.io/github/issues/Muhammadabid7/ABOUT-ME?style=for-the-badge)](https://github.com/Muhammadabid7/ABOUT-ME/issues)
@@ -41,7 +41,7 @@
 - Professional Turu (95%) 😴
 
 ## 🌐 Live Demo
-Experience the website live at: [BIDZZ Official](https://bidzz-rawr.github.io/ABOUT-ME)
+Experience the website live at: [Ziyad Official](https://Ziyad-rawr.github.io/ABOUT-ME)
 
 ## 🎯 Project Structure
 
@@ -99,12 +99,12 @@ The website is fully responsive and tested on:
 - [ ] Portfolio project showcase
 - [ ] Achievement timeline
 
-## 🤝 Connect with BIDZZ
+## 🤝 Connect with Ziyad
 
-- [YouTube](https://youtube.com/@BidzzOFC)
+- [YouTube](https://youtube.com/@ZiyadOFC)
 - [GitHub](https://github.com/Muhammadabid7)
-- [Instagram](https://www.instagram.com/bidzz_ajagin/)
-- [Telegram](https://t.me/bidzz7)
+- [Instagram](https://www.instagram.com/Ziyad_ajagin/)
+- [Telegram](https://t.me/Ziyad7)
 
 ## 📜 License
 
@@ -117,7 +117,7 @@ Special thanks to all the developers and creators whose tools and libraries made
 ---
 
 <div align="center">
-  Made with 💙 by BIDZZ Official
+  Made with 💙 by Ziyad Official
   
   ⭐ Star this repo if you like it!
 </div>

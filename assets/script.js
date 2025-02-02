@@ -1,10 +1,10 @@
 // Preload images
 const imageSources = [
-    'bidzz.png',
+    'Ziyad.png',
     'ml.png',
-    'pb.png',
+    'nfs.jpeg',
     'codm.png',
-    'pbs.png'
+    'bf5.jpg'
 ];
 
 let loadedImages = 0;
@@ -218,8 +218,8 @@ function initGlitchEffect() {
 // Handle visibility change
 document.addEventListener('visibilitychange', () => {
     if (document.hidden) {
-        document.title = 'Come Back to Bidzz Official';
+        document.title = 'Come Back to Ziyad Official';
     } else {
-        document.title = 'Bidzz Official - Personal Website';
+        document.title = 'Ziyad Official - Personal Website';
     }
 });

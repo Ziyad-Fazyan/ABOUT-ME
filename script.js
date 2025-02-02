@@ -12,11 +12,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Typing Animation Configuration
     const words = [
-        "Kang Turu",
-        "Reverse Engineer",
-        "Ethical Hacker",
-        "Web Designer",
-        "Software Developer"
+        // "Kang Turu",
+        "UI/UX Designer",
+        "Web Developer",
+        "Tech Enthusiast"
     ];
 
     let wordIndex = 0;
